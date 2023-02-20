@@ -1,4 +1,3 @@
-import { randomUUID } from 'crypto'
 import fastify from 'fastify'
 import { knex } from './database'
 
